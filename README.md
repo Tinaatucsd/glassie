@@ -4,8 +4,8 @@ glassie
 [![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/glassie/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/glassie/actions?query=workflow%3ACI)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/glassie/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/glassie/branch/main)
 
-
-glassy materials analysis tools
+This is the toolset for querying and analyzing glassy materials data.
+WIP
 
 ### Copyright
 
